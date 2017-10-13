@@ -8,7 +8,7 @@ IComCom React
 ```bash
 npm install --save icomcom-react
 # or
-yarn install icomcom-react
+yarn add icomcom-react
 ```
 
 ## Props
